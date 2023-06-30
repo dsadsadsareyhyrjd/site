@@ -5,17 +5,15 @@ p{
 }
 
 body {    
-    background: #cccccc;
+    background: #a7f5f8;
 }
 
 
 
 em strong {
-    color: red;
+    color: purple;
 }
 h1 {
     text-align: center
-} 
-p {
-    text-align:center
+
 }
